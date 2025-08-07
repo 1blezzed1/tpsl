@@ -34,3 +34,5 @@ local AllClans = {
         "Tsukishima"
     },
 }
+
+return AllClans
