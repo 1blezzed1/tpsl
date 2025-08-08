@@ -51,7 +51,9 @@ local Info = {
         "privateservercompensation",
         "promiseddecembercode",
         "compensationforinconvenientrelease",
-        "sorryforthebankbugs"
+        "sorryforthebankbugs",
+        "yesterdayshutdown",
+        "thanksfor900k"
     },
     ["All Elements"] = {
         ["Hollow"] = {
