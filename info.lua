@@ -120,6 +120,14 @@ local Info = {
             "Zombie",
             "Balance",
             "Deathdealing"
+        },
+        ["Fullbringer"] = {
+            "Devils Arm",
+            "Doll House",
+            "Time Tells No Lies",
+            "Zangetsu",
+            "Chess",
+            "Book of the End"
         }
     },
     ["All Weapons"] = {
