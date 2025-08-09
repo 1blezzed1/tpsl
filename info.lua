@@ -54,7 +54,8 @@ local Info = {
         "sorryforthebankbugs",
         "yesterdayshutdown",
         "thanksfor900k",
-        "codeforshutdownisuppose"
+        "codeforshutdownisuppose",
+        "wowshutdowncodeyeah"
     },
     ["All Elements"] = {
         ["Hollow"] = {
