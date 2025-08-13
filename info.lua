@@ -57,6 +57,8 @@ local Info = {
         "codeforshutdownisuppose",
         "wowshutdowncodeyeah",
         "superduperfunsecretcode",
+        "thosewhoknowemblem",
+        "serverlistfixed"
     },
     ["All Elements"] = {
         ["Hollow"] = {
