@@ -130,7 +130,7 @@ local Info = {
         },
         ["Fullbringer"] = {
             "Devils Arm",
-            "Doll House",
+            "Dollhouse",
             "Time Tells No Lies",
             "Zangetsu",
             "Chess",
